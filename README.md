@@ -8,7 +8,7 @@ I’m a frontend developer with a solid foundation in HTML, CSS, and JavaScript 
 
 * 🌍  I'm based in Uman, Ukraine
 * ✉️  You can contact me at [kgurzan@gmail.com](mailto:kgurzan@gmail.com)
-* 🧠  I'm learning React.js, Node.js, Tailwild CSS, Bootstrap
+* 🧠  I'm learning Next.js, Tailwild CSS, Bootstrap
 * 🤝  I'm open to collaborating on interesting projects
 
 
