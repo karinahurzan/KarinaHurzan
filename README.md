@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karina Hurzan
 =====================================================================================================================================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
-I’m a frontend developer with a solid foundation in HTML, CSS, and JavaScript for creating responsive and user-friendly websites. I’m currently expanding my skill set by diving into React.js and Node.js to enhance my development capabilities. Passionate about continuous learning and self-improvement, I’m committed to growing beyond the core technologies and staying up to date with industry trends. Understanding the importance of English proficiency in today’s global tech environment, I’m actively working toward a C1 level, building on my current strong B2. I also have experience leading a team in a collaborative project, which strengthened my leadership and teamwork skills. Excited about future opportunities and open to new challenges!
+I’m a Fullstack Developer with a solid foundation in HTML, CSS, JavaScript, and hands-on experience working with React.js and Node.js to build responsive, scalable, and user-focused web applications.
+Passionate about continuous learning, I stay up to date with modern development trends and constantly expand my skill set beyond core technologies — including tools like Redux Toolkit, TypeScript, and Express.
+Fluent in English at a C1 level, I’m confident in both technical communication and collaboration within international teams.
+I also have experience leading a team in a collaborative project, which helped me develop strong leadership and teamwork skills in a real-world environment.
+I’m excited about new opportunities and ready to take on meaningful challenges in fullstack development.
 
 * 🌍  I'm based in Uman, Ukraine
 * ✉️  You can contact me at [kgurzan@gmail.com](mailto:kgurzan@gmail.com)
