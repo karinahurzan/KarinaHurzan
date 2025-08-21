@@ -12,7 +12,7 @@ I’m excited about new opportunities and ready to take on meaningful challenges
 
 * 🌍  I'm based in Uman, Ukraine
 * ✉️  You can contact me at [kgurzan@gmail.com](mailto:kgurzan@gmail.com)
-* 🧠  I'm learning Next.js, Tailwild CSS, Bootstrap
+* 🧠  I'm learning Next.js, Bootstrap
 * 🤝  I'm open to collaborating on interesting projects
 
 
