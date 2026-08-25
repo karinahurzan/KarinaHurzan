@@ -1,16 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Karina Hurzan
-======================================================================================================================================
+# Hi 👋 I'm Karina Hurzan
 
-Fullstack Python Developer
---------------------------
+### Fullstack & AI Engineer
 
-I’m a Fullstack Developer with 3 months of commercial experience building responsive and scalable web applications. I have a solid foundation in HTML, CSS, and JavaScript, with hands-on experience in React.js, TypeScript, Python, PostgreSQL, and modern data-fetching and state-management tools like TanStack Query. Additionally, I work with Node.js, Express, and Redux Toolkit.
+I build production-ready web applications and AI-powered systems using
+Python, FastAPI, Next.js and TypeScript.
 
-Passionate about learning and staying up to date with modern development trends, I enjoy solving real-world problems and contributing to high-quality software. I’m fluent in English (C1 level) and experienced in collaborating with international teams. I have also led a team in a collaborative project, which strengthened my leadership and teamwork skills. I’m eager to take on new challenges and contribute to impactful fullstack development projects.
+My current focus is AI Engineering — building agentic workflows,
+LLM-powered applications, MCP integrations and real-time AI systems
+with LangChain, LangGraph and FastMCP.
 
-* 🌍  I'm based in Uman, Ukraine
-* ✉️  You can contact me at [kgurzan@gmail.com](mailto:kgurzan@gmail.com)
-* 🧠  I'm currently learning FastMcp and Langchain
+- 🇺🇦 Based in Ukraine
+- 💻 Fullstack development with Python + TypeScript
+- 🤖 Building AI agents and LLM-powered applications
+- 🔌 Developing MCP tools and integrations
+- 🐳 Working with Docker-based production environments
+- 🧠 Exploring advanced agent architectures and AI engineering
+- 🌍 English: C1
+- ✉️ [kgurzan@gmail.com](mailto:kgurzan@gmail.com)
 
 
 <table>
